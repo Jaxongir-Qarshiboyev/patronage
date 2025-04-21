@@ -1,0 +1,27 @@
+# Python/Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+*.db  # SQLite database files (if using SQLite)
+migrations/  # Django migrations (optional, if you don't want to track them)
+*.log  # Log files (e.g., /tmp/django.log)
+*.sqlite3  # SQLite database files (if using SQLite)
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# MacOS
+.DS_Store
+
+# Testing and coverage
+*.pytest_cache/
+coverage/
+htmlcov/
