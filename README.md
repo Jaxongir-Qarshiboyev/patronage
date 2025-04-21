@@ -160,6 +160,6 @@ Loyiha ochiq manbali. Hissa qo‘shmoqchi bo‘lsangiz:
 
 ## 📞 Aloqa
 
-Savollar yoki takliflar uchun bog‘laning: **Jaxongir Qarshiboyev**
+Savollar yoki takliflar uchun bog‘laning: [Jaxongir Qarshiboyev](https://github.com/Jaxongir-Qarshiboyev)
 
 © 2025 Hamshiralar Monitoring Tizimi loyihasi
